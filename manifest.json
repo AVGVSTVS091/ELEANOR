@@ -1,0 +1,35 @@
+{
+  "name": "AGUAI",
+  "short_name": "AGUAI",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0ea5e9",
+  "theme_color": "#0c4a6e",
+  "description": "A simple and intuitive CRM to register, search, and track clients.",
+  "icons": [
+    {
+      "src": "/assets/logos/AGUAI 2 trans.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/AGUAI 2 trans.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/AGUAI 2 trans.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/assets/logos/AGUAI 2 trans.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "AGUAI3.0",
+  "description": "A simple and intuitive CRM to register, search, and track clients. Features include Excel import, follow-up countdowns, file management, and a Gemini-powered chatbot for data analysis and location-based queries.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
